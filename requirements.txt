@@ -3,7 +3,7 @@ Image
 pandas
 numpy
 matplotlib
-Pyplot 
+pyplot 
 gspread
 time
 annotated_text
