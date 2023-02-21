@@ -13,4 +13,4 @@ scikit-learn
 statsmodels
 stats
 gspread
-annotated_text
+st-annotated-text
