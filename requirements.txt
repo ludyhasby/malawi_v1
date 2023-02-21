@@ -2,7 +2,7 @@ streamlit
 Image
 pandas
 numpy
-matplotlib
+Matplotlib
 pyplot 
 gspread
 time
