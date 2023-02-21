@@ -2,6 +2,7 @@ streamlit
 Image
 pandas
 numpy
+matplotlib
 matplotlib.pyplot
 gspread
 time
@@ -11,3 +12,4 @@ webbrowser
 date
 datetime
 plotly.express
+PIL
