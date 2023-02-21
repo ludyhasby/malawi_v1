@@ -12,3 +12,4 @@ pymc
 scikit-learn
 statsmodels
 stats
+gspread
